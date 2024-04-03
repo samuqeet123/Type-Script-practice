@@ -76,3 +76,4 @@ function enti(name:string, num?:number){
 }
 console.log(enti("ahmed"))
 
+console.log("asdf")
